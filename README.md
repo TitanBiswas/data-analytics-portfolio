@@ -60,5 +60,5 @@ The Netflix and Vehicle Insurance datasets are included. The BigBasket and Zomat
 
 ## Contact
 
-Add your name, email, LinkedIn, and portfolio URL here before publishing this repository.
+Titan kumar biswas, Mail-titankumarbiswas@1gmail.com, LinkedIn-linkedin.com/in/titan-kumar-biswas-198875290
 
